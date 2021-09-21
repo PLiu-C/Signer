@@ -1,0 +1,8 @@
+*.bc
+*.wasm
+signer.html
+signer.js
+*.bc
+*.a
+*.o
+*.so
